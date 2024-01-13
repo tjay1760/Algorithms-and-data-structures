@@ -16,5 +16,8 @@ iterrations --> actions that shuld be repeated
 ### Big-0 time notation
 Big -O time notation can be used to explain how long a program takes to execute with the growth of input
 Time complexity measures time taken whereas space complexity measure the amount of memory used
+**Why use big 0**
+Somettimes it can be a balance of the two factors for instance a tradeof can be done where space complexity is not a key issue
+**How to calculate Big-0**
 
 

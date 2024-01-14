@@ -19,5 +19,10 @@ Time complexity measures time taken whereas space complexity measure the amount 
 **Why use big 0**
 Somettimes it can be a balance of the two factors for instance a tradeof can be done where space complexity is not a key issue
 **How to calculate Big-0**
+- Split your algo into bits
+- calculate each bits BigO
+- Add BigO of all operations
+- Strip out constants
+- Find largest order term
 
 
